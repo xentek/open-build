@@ -1,0 +1,3 @@
+Open Build is a set of Drupal modules created to work with Open Atrium in order to provide integration with common Source Control Management (SCM) tools such as Subversion or Git, including powerful commit hooks. It also aims to provide a Continuous Integration service for Web Developers wanting to create a build server and bridge their client communication with their development process.
+
+Open Atrium is a set of drupal modules and themes to create an intranet application that allows different teams to have their own project spaces. The communication tools include a blog, a wiki, a calendar, a to do list, a shoutbox, and a dashboard to manage it all.
